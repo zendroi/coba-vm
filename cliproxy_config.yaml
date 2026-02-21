@@ -1,0 +1,12 @@
+port: 8317
+api-keys:
+  - "kodek"
+
+openai-compatibility:
+  - name: "codex-zumy"
+    base-url: "https://codex.zumy.dev/v1"
+    api-key-entries:
+      - api-key: "kodek"
+    models:
+      - name: "gpt-5.3-codex"
+        alias: "gpt-5.3-codex"
