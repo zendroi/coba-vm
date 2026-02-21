@@ -62,3 +62,4 @@ export OPENAI_BASE_URL=http://localhost:8317/v1
 - Config `openai-compatibility` di CLIProxyAPI
 - Start server CLIProxyAPI
 - Set `OPENAI_BASE_URL` ke `http://localhost:8317/v1` untuk OpenCode
+# sync-codespace
